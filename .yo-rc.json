@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "blog",
+    "packageName": "com.hakimrabet.blog",
+    "packageFolder": "com/hakimrabet/blog",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "OGJlYTBmYmU4YmFlNWNmMTQzNjhmYTQzZDNhZjVmMDIxZTcwZjQ4ZTA0ZTJmMjJhOWM5NjQwMzY2MGQ3NTdmMDAwZTY2OThiZmIwYjNkZDAyNjFkNjc2ZDZjMmRmM2UyZTEwZmEyZDc1ZTQyNGU5MDg4NjRjNDYwN2M0NTJkYjI=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "julcaesar",
+  "repository-name": "blog"
+}
